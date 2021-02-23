@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Bridge TV Русский Хит [480p]
+http://ott-cdn.ucom.am/s78/index.m3u8
+#EXTINF:-1 tvg-id="Bridge.ru" tvg-name="Bridge TV" tvg-logo="" group-title="Music",Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
